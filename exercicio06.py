@@ -22,6 +22,6 @@ else:
     print("Horas de sono fora dos requisitos!")
 
 if idadeDoador == 1 and pesoDoador == 1 and horasDormidas == 1:
-    print("Você pode ser um doador!")
+    print("Você atende os requisitos para ser um doador!")
 else:
-    print("Você não pode ser um doador.")
+    print("Você não atende os requisitos para ser um doador.")
