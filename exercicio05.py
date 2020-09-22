@@ -20,6 +20,6 @@ for x in range(10):
             F += 1
             break
 
-if idadeMediaH>0: print("media de idade dos homens:",idadeMediaH / H)
-if idadeMediaM>0:print("media de idade das mulheres",idadeMediaM / F)
-if mediaGrupo>0:print("media de idade desse grupo:",mediaGrupo / (H + F))
+if idadeMediaH>0: print("A idade média dos homens foi:",idadeMediaH / H)
+if idadeMediaM>0: print("A idade média das mulheres foi:",idadeMediaM / F)
+if mediaGrupo>0:  print("A idade média do grupo foi:",mediaGrupo / (H + F))
